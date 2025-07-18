@@ -1,0 +1,9 @@
+tensorflow>=2.10,<2.15  # Compatible range with most older .h5 models
+keras>=2.10,<2.15        # Separate keras install for model_from_config
+scikeras>=0.11
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+tensorboard
